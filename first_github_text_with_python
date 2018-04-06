@@ -1,0 +1,8 @@
+dic_day ={
+"Week_Day":["Monday","Tuesday","Wednesday","Thuesday",n\
+"Friday","Saturday","Sunday"],
+
+"Month":["January","February","March","April","May","June","July",n\
+"August","September","November","December"]
+
+}
